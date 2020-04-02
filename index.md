@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to JeffDing GitHub
 
-You can use the [editor on GitHub](https://github.com/JeffDing/jeffding.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人介绍
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+喜欢研究高性能计算、机器学习、自然语言处理、Open CV、数值模型、Python，业余时间爱好运动
 
 ```markdown
 Syntax highlighted code block
