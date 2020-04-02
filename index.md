@@ -18,13 +18,14 @@
  3.机器学习和数值预报结合  
  
 # Project     
- 1.<a href="https://github.com/JeffDing/DingLabWIS">Dinglab WIS</a>  
+ 1.<a href="https://github.com/JeffDing/DingLabWIS">Dinglab WIS</a>
  
  # Recent books     
  1.机器学习实战：基于Scikit-Learn和Tensorflow
  2.Pytorch实战
 
 # Connect Me 
+zhihu:<a href = "https://www.zhihu.com/people/JeffdingSH">JeffDingSH</a>
 QQ：474231146
 Wechat:JeffDing890430  
-E-mail:JeffDing890430@gmail,com
+E-mail:JeffDing890430@gmail.com
