@@ -12,12 +12,12 @@
  3.Tensorflow  
  4.Pytorch  
 
-# 最近研究方向  
+# Research  
  1.机器学习  
  2.NLP  
  3.机器学习和数值预报结合  
  
-# 主要项目   
+# Project     
  1.<a href="https://github.com/JeffDing/DingLabWIS">Dinglab WIS</a>  
 
 # Connect Me  
