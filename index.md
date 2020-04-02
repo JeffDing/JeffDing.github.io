@@ -25,7 +25,7 @@
  2.Pytorch实战
 
 # Connect Me 
-zhihu:<a href = "https://www.zhihu.com/people/JeffdingSH">JeffDingSH</a>
+zhihu:<a href = "https://www.zhihu.com/people/JeffdingSH">JeffDingSH</a>   
 QQ：474231146
 Wechat:JeffDing890430  
 E-mail:JeffDing890430@gmail.com
