@@ -3,7 +3,7 @@
 
 ### Introduction  
 
-坐标中国上海，平时喜欢研究高性能计算、机器学习、自然语言处理、Open CV、数值天气预报以及Python，业余时间爱好运动打发时间
+坐标中国上海，平时喜欢研究Python、机器学习、自然语言处理、数值天气预系统报以及高性能计算，业余时间还爱好大气科学，平时也喜欢运动打发一下时间
 
 
 # Learning  
@@ -19,7 +19,12 @@
  
 # Project     
  1.<a href="https://github.com/JeffDing/DingLabWIS">Dinglab WIS</a>  
+ 
+ # Recent books     
+ 1.机器学习实战：基于Scikit-Learn和Tensorflow
+ 2.Pytorch实战
 
-# Connect Me  
+# Connect Me 
+QQ：474231146
 Wechat:JeffDing890430  
 E-mail:JeffDing890430@gmail,com
