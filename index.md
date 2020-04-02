@@ -20,7 +20,7 @@
 # Project     
  1.<a href="https://github.com/JeffDing/DingLabWIS">Dinglab WIS</a>
  
-# Recentbooks     
+# Recent Reading Books       
  1.机器学习实战：基于Scikit-Learn和Tensorflow   
  2.Pytorch实战   
 
