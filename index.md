@@ -3,22 +3,20 @@
 
 ### Introduction  
 
-坐标中国上海，平时喜欢研究Python、机器学习、自然语言处理、数值天气预系统报以及高性能计算，业余时间还爱好大气科学，平时也喜欢运动打发一下时间
+华为云云享专家，Datawhale成员，MDG上海核心成员，MindSpore优秀开发者，主要探索深度学习、Mindspore、ModelArts、Ascend
 
 
 # Learning  
  1.Python  
- 2.机器学习应用  
- 3.Tensorflow  
- 4.Pytorch  
+ 2.MindSpore
+ 3.Ascend
 
 # Research  
- 1.机器学习  
- 2.NLP  
- 3.机器学习和数值预报结合  
- 
-# Project     
- 1.<a href="https://github.com/JeffDing/DingLabWIS">Dinglab WIS</a>
+ 1.DeepLearning  
+ 2.NLP    
+ 3.ModelArts  
+ 4.MindSpore  
+ 5.Ascend  
  
 # Recent Reading Books       
  1.机器学习实战：基于Scikit-Learn和Tensorflow   
