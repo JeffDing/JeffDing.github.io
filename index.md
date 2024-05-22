@@ -3,13 +3,14 @@
 
 ### Introduction  
 
-华为云云享专家，Datawhale成员，MDG上海核心成员，MindSpore优秀开发者，主要探索深度学习、Mindspore、ModelArts、Ascend
+OpenI首批资深体验官，Datawhale成员，MindSpore资深开发者，Ascend优秀开发者，主要探索学习国产算力、Mindspore、Ascend、AI For Science、AIGC
 
 
 # Learning  
  1.Python  
  2.MindSpore  
  3.Ascend  
+ 4.AIGC
 
 # Research  
  1.DeepLearning  
@@ -17,10 +18,8 @@
  3.ModelArts  
  4.MindSpore  
  5.Ascend  
+ 6.AIGC
  
-# Recent Reading Books       
- 1.机器学习实战：基于Scikit-Learn和Tensorflow   
- 2.Pytorch实战   
 
 # Connect Me 
 zhihu:<a href = "https://www.zhihu.com/people/JeffdingSH">JeffDingSH</a>   
